@@ -19,4 +19,4 @@ It uses the curl header for performing HTTPs GET requests and nlohmann/json.hpp 
 - In the powershell/command line, run the following:
   - `g++ -std=c++17 -Wall -Wextra -Wno-unknown-pragmas -I C:/msys64/ucrt64/include -I C:/Programming/C++/Libs/vcpkg gh.cpp -L C:/msys64/ucrt64/lib -lcurl 
     -o output/gh.exe`
-<br>**NB** Before running, ensure the dependencies a) and b) are present in the output folder. 
+<br>**NB** Before running, ensure the dependencies libcurl.dll and curl-ca-bundle.crt are present in the output folder. 
