@@ -1,5 +1,5 @@
 This tool is a C++ CLI interface that fetches a Github's user activity. 
-It uses the curl header for performing HTTPs GET requests and nlohmann/json.hpp header to handle json parsing
+It uses the curl header for performing HTTPs GET requests and nlohmann/json.hpp header to handle json parsing.
 It's a solution to a [Roadmap.sh]{https://roadmap.sh/projects/github-user-activity}'s project. 
 
 ##Requirements
