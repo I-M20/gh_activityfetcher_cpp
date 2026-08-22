@@ -8,6 +8,7 @@ It uses the curl header for performing HTTPs GET requests and nlohmann/json.hpp 
 - Need the following dependencies in the application folder
   <br>a) `libcurl.dll` (and any other associated SSL\zlib dependencies)
   <br>b) `curl-ca-bundle.crt`
+  
 <br>##Building dependencies
 - **Compiler**GCC v10+(C++17 standard support required)
 - **Libraries** 
